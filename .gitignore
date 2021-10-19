@@ -1,4 +1,3 @@
-.gitignore
 # Build and Release Folders
 bin-debug/
 bin-release/
@@ -24,4 +23,5 @@ TOKEN
 #SSh key 
 kingsuk_sshkey_git.txt
 kingsuk_sshkey_git.txt.pub
-
+.gitignore
+.git/*
