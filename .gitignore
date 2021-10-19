@@ -17,5 +17,10 @@ bin-release/
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
 
-#temp file must be ignore
+#temp file must be ignore and TOKEN
+TOKEN
 *~ 
+#SSh key 
+kingsuk_sshkey_git.txt
+kingsuk_sshkey_git.txt.pub
+
